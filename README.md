@@ -21,5 +21,6 @@ The dashboard visualizes salary data across different regions/countries based on
 It allows users to explore which countries or regions offer the highest salaries for data science roles.
 
 **Filters:**
+
 The dashboard is equipped with filters that allow users to drill down based on experience level, job title, employment type, location, and other key factors.
 Users can interactively explore how different variables impact the salary distribution and identify trends within specific subsets of data.
