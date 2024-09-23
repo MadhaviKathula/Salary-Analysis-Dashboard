@@ -4,6 +4,7 @@ Dataset link
 https://www.kaggle.com/datasets/ruchi798/data-science-job-salaries/data
 
 **Key Points:**
+
 The dashboard presents the relationship between experience levels (Entry-level, Mid-level, Senior, and Executive) and their corresponding average salaries.
 
 It highlights how salaries increase with experience. Senior and executive roles command significantly higher salaries compared to entry-level positions.
